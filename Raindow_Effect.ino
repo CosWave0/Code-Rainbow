@@ -1,4 +1,4 @@
-#include <FastLED.h> //If You don't have FastLED lidary, then Plese download it.
+#include <FastLED.h> //If You don't have FastLED lidary, then Please download it.
 
 #define NUM_LEDS  35  //define how much indiviual pixel LED u uesed
 #define LED_PIN   6 //define the OUTPUT Data Pin of your arduino. Like I used here Pin 6, which is a PWM pin.
